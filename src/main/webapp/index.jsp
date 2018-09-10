@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!This is About Love</h2>
+<h2>Hello World!</h2>
+<a target="_blank" href="main.html">go to main.jsp</a>
 </body>
 </html>
